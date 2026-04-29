@@ -1,7 +1,7 @@
 import requests
 
 # Ваши данные
-API_TOKEN = "0d587e5bfac8f558d0a908d871c50db1fee0d047"
+API_TOKEN = "8ecc94c9432e9fb82b4b6b849ed050449277cbbc"
 BASE_UUID = "3dfdd3a4-57a8-469d-9438-b51502b38d6f"
 
 # 1. Получаем Base-Token
