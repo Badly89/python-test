@@ -1,0 +1,304 @@
+{
+  "base_uuid": "f3bf6ecc-cbb1-4da1-bfd4-82dd48137b96",
+  "tables": {
+    "Почтовый адрес объекта": {
+      "status": "success",
+      "count": 1,
+      "first_row": {
+        "Почтовый адрес": "ул.Строителей",
+        "Год ввода": "1987",
+        "Номер дома": "1",
+        "Количество собственников жилья": 20,
+        "Количество жильцов в доме": 62,
+        "Тип здания": "Деревянный",
+        "Вид жилья": "МКД",
+        "Количество этажей": "2",
+        "Количество подъездов": "2",
+        "квартир всего": "20",
+        "Муниципальных квартир": null,
+        "квартир нерасселено": "20",
+        "Площадь общая": 1027.1,
+        "в том числе жилая": 901.9,
+        "Аварийный / не аварийный": true,
+        "Ожидаемый снос": "2030",
+        "Список собственников жилья": [
+          {
+            "row_id": "ZGGUhmncQDuTosHBeFtkHA",
+            "display_value": "owner-0396"
+          },
+          {
+            "row_id": "CA9HJdOETneH26yqJWyVdQ",
+            "display_value": "owner-0397"
+          },
+          {
+            "row_id": "QBn8bdZ9RRGjGiyXbOACQQ",
+            "display_value": "owner-0398"
+          },
+          {
+            "row_id": "A6Y-mM6MRGqb-FM0e1WmKw",
+            "display_value": "owner-0399"
+          },
+          {
+            "row_id": "VJJrDhBRTly_p3CKVfzIvw",
+            "display_value": "owner-0400"
+          },
+          {
+            "row_id": "Nl0Bz-j9RJ-MM1b2SVANSQ",
+            "display_value": "owner-0401"
+          },
+          {
+            "row_id": "e_GvT90SSvqD1ZgpdnnMwg",
+            "display_value": "owner-0402"
+          },
+          {
+            "row_id": "Skjl1IrURB2X1wPzIcTP8g",
+            "display_value": "owner-0403"
+          },
+          {
+            "row_id": "AMXXl-pgRhCxq7jvUZGLjA",
+            "display_value": "owner-0404"
+          },
+          {
+            "row_id": "T9LcxHWjSC-Jw7XCXjz3AQ",
+            "display_value": "owner-0405"
+          }
+        ],
+        "Список граждан Вынгапур": [
+          {
+            "row_id": "NPrj3w6BRjWpldF8KRXilw",
+            "display_value": "vgp-02550"
+          },
+          {
+            "row_id": "Vyg15ZfeQVaKEdnqY-eL5g",
+            "display_value": "vgp-02551"
+          },
+          {
+            "row_id": "Nfjv0R_9QzWf5tAPoENoow",
+            "display_value": "vgp-02552"
+          },
+          {
+            "row_id": "LLso-wpJSQK9CjgQL62nDA",
+            "display_value": "vgp-02553"
+          },
+          {
+            "row_id": "fmChtXY3SPSppEE7DXNqNQ",
+            "display_value": "vgp-02554"
+          },
+          {
+            "row_id": "G2sWJQOKSw2u1j5r5W9F6g",
+            "display_value": "vgp-02555"
+          },
+          {
+            "row_id": "HbFSUkBETSCulBzvYdv8gw",
+            "display_value": "vgp-02556"
+          },
+          {
+            "row_id": "fqiQWg7aT5OAzERyIML_vw",
+            "display_value": "vgp-02557"
+          },
+          {
+            "row_id": "ICgWHzwSSt2MYupFuKXQAQ",
+            "display_value": "vgp-02558"
+          },
+          {
+            "row_id": "O5VIdq4pTQ-fwfkznm9w6g",
+            "display_value": "vgp-02559"
+          }
+        ],
+        "НПА": "распоряжение №665-Р от 08.12.2025",
+        "Срок отселения": "2030-08-15T00:00:00+05:00",
+        "Срок сноса": "2030-12-15T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:05.59+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:53:53.831+05:00",
+        "_id": "Unq9mXJKT8mZ5JEvs7sqGQ"
+      }
+    },
+    "Собственники жилья": {
+      "status": "success",
+      "count": 1,
+      "first_row": {
+        "№": "owner-0001",
+        "ФИО": "Разяпов Рустам Мухтарович",
+        "ФИО Граждан": [],
+        "Почтовый адрес объекта": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "№ квартиры": "1",
+        "Кол-во кв": 1,
+        "№ дома": [
+          "1"
+        ],
+        "Вид собственности": "Св-во",
+        "Общая S по ЕРИЦ (м2)": 34.5,
+        "Общая S (м2)": 34.5,
+        "ж/ф в собственности, кол-во квартир": 1,
+        "ж/ф в собственности, S квартир (м2)": 34.5,
+        "Муниципальный ж/ф, кол-во квартир": 0,
+        "Муниципальный ж/ф, S квартир(м2)": 0,
+        "Доля в праве общей Д=Sпом/Sобщ": 0.027930699481865284,
+        "Кол-во голосов Кгол= Д х Кобщ": 27.930699481865283,
+        "Приват ж/ф, доля": 0.028,
+        "Приват ж/ф, кол-во голосов": 28,
+        "Муниц ж/ф, доля": 0,
+        "Мун ж/ф / Кол-во голосов": 0,
+        "Числ по Прив": 3,
+        "Числ по Муниц": 0,
+        "1-но комн кол-во приват": 1,
+        "1-но комн площадь приват": 34.5,
+        "1-но комн кол-во муниц": 0,
+        "1-но комн площадь муниц": 0,
+        "2-х комн кол-во приват": 0,
+        "2-х комн площадь приват": 0,
+        "2-х комн кол-во муниц": 0,
+        "2-х комн площадь муниц": 0,
+        "3-х комн кол-во приват": 0,
+        "3-х комн площадь приват": 0,
+        "3-х комн кол-во муниц": 0,
+        "3-х комн площадь муниц": 0,
+        "4-х и более комн кол-во приват": 0,
+        "4-х и более комн площадь приват": 0,
+        "4-х и более комн кол-во муниц": null,
+        "4-х и более комн площадь муниц": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T12:56:08.792+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-30T11:59:09.763+05:00",
+        "_id": "FAuFTmmBR9Kn6C-fEGFaNA"
+      }
+    },
+    "Список граждан Вынгапур": {
+      "status": "success",
+      "count": 1,
+      "first_row": {
+        "№": "vgp-00001",
+        "ФИО": "Теплякова Валентина Ивановна",
+        "Дата рождения": "1958-02-12T00:00:00+05:00",
+        "Возраст": "68 лет",
+        "Возраст (числом)": 68,
+        "Категория": "Пенсионный (66-75 лет)",
+        "Ребенок": false,
+        "Почтовый адрес": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "№ дома": [
+          "10"
+        ],
+        "Квартира": "10",
+        "Тип здания": [
+          "Деревянный"
+        ],
+        "Собственник жилья": "Собственник",
+        "Льготные категории": [
+          "Неработающий пенсионер"
+        ],
+        "Аварийный дом": [
+          false
+        ],
+        "Занятость": null,
+        "Организация": [],
+        "Вид организации": [],
+        "Ветеран": null,
+        "Выдан сертификат на переселение": null,
+        "Неработающий пенсионер": true,
+        "Ветеран труда РФ": false,
+        "Ветеран ЯНАО": false,
+        "Инвалид": false,
+        "Ребенок-инвалид": false,
+        "Ветеран боевых действий": false,
+        "Участник СВО": false,
+        "Член семьи участника СВО": false,
+        "Гражданин из семьи, признанной малоимущей в соответствии с 55-ЗАО": false,
+        "В составе семьи с 3 и более детьми до 18 лет, учащ_ до 23 лет": false,
+        "Телефон": null,
+        "Собственники жилья": [
+          {
+            "row_id": "eD3-tDOHS8mfKsZ_xFGQ1w",
+            "display_value": "Теплякова Валентина Ивановна"
+          }
+        ],
+        "temp": 1,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:12.125+05:00",
+        "_id": "ed1kRrqXRoS6ir_b8LYplg"
+      }
+    },
+    "Место работы": {
+      "status": "success",
+      "count": 1,
+      "first_row": {
+        "Наименование учреждения": "МБУ \"РЦДИПВ \"Кадет\"",
+        "Список граждан Вынгапур": [
+          {
+            "row_id": "Jdhp1XCIQw2icoZJONGOxQ",
+            "display_value": "Абдуллина Гузель Маратовна"
+          },
+          {
+            "row_id": "KtvRF_XETXaFzyFKDs8wmg",
+            "display_value": "Снарский Иван Степанович"
+          },
+          {
+            "row_id": "O_NO6dwWQuiKDDXXUlqnmg",
+            "display_value": "Федорова Лариса Ивановна"
+          },
+          {
+            "row_id": "JD6CLA9HTmiFYgcFwmsxSA",
+            "display_value": "Зубкова Татьяна Евгеньевна"
+          },
+          {
+            "row_id": "TY5U3yfvQqqzDFf6AKF_Gg",
+            "display_value": "Погорелова Ольга Владимировна"
+          },
+          {
+            "row_id": "LOqfkW5ZQjODltXYaSLqrg",
+            "display_value": "Миргалиева Винера Фаридовна"
+          },
+          {
+            "row_id": "c_Hk38UIQSykPdaPOn9_NA",
+            "display_value": "Моисеенко Анатолий Анатольевич"
+          },
+          {
+            "row_id": "Dau9oor-RFWU77zmEkaYMw",
+            "display_value": "Малашинина Светлана Алексеевна"
+          },
+          {
+            "row_id": "cX3Uggg4R2mZwHyir6qmFA",
+            "display_value": "Татаринцева Елена Владимировна"
+          },
+          {
+            "row_id": "MnayXuRSRdiTxkymeHMRlA",
+            "display_value": "Николаева Александра Павловна"
+          }
+        ],
+        "Количество работников": 10,
+        "Вид организации": "Бюджетное учреждение",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-04T17:10:27.884+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-27T17:14:43.946+05:00",
+        "_id": "aNjC8kojSnqidQxk4IT4pA"
+      }
+    }
+  }
+}

@@ -1,0 +1,2876 @@
+{
+  "tables_analyzed": [
+    "Почтовый адрес объекта",
+    "Собственники жилья",
+    "Список граждан Вынгапур",
+    "Место работы"
+  ],
+  "columns_by_table": {
+    "Почтовый адрес объекта": [
+      "0000",
+      "pM3i",
+      "8cuE",
+      "a58R",
+      "XP4r",
+      "nC7g",
+      "VKZW",
+      "rmE3",
+      "CmFv",
+      "496B",
+      "7MCi",
+      "h6A8",
+      "zNzD",
+      "9LRE",
+      "7Fwi",
+      "96x2",
+      "ODQ4",
+      "TMoz",
+      "q4ro",
+      "Tmkx",
+      "kB7R",
+      "_locked",
+      "_locked_by",
+      "_archived",
+      "_creator",
+      "_ctime",
+      "_last_modifier",
+      "_mtime",
+      "_id"
+    ],
+    "Собственники жилья": [
+      "0000",
+      "Ce34",
+      "46Kt",
+      "23I0",
+      "f8PY",
+      "0TpF",
+      "ygNr",
+      "5TRA",
+      "c60U",
+      "B3A8",
+      "TorI",
+      "fVy5",
+      "1oh0",
+      "SJ29",
+      "KDZ6",
+      "wWtZ",
+      "9ymO",
+      "6Ncf",
+      "WtJB",
+      "8KzX",
+      "1Xh7",
+      "77U3",
+      "wKSC",
+      "mm6f",
+      "tOaJ",
+      "Bd75",
+      "Tnqa",
+      "d9R7",
+      "O35f",
+      "4XKc",
+      "Mu71",
+      "xySw",
+      "7UZT",
+      "KD5P",
+      "8bFU",
+      "6aSN",
+      "4HPV",
+      "9039",
+      "_locked",
+      "_locked_by",
+      "_archived",
+      "_creator",
+      "_ctime",
+      "_last_modifier",
+      "_mtime",
+      "_id"
+    ],
+    "Список граждан Вынгапур": [
+      "0000",
+      "A1FW",
+      "zaig",
+      "r97I",
+      "5Go0",
+      "LYjQ",
+      "oiDl",
+      "u5NB",
+      "8rTo",
+      "G7TB",
+      "euHR",
+      "5LD7",
+      "1x99",
+      "QLyq",
+      "4bu0",
+      "KCCq",
+      "J5s8",
+      "DNXa",
+      "3KHw",
+      "1sYx",
+      "VciU",
+      "W96t",
+      "cjbC",
+      "6mB5",
+      "l7u2",
+      "Q5Wu",
+      "0JZI",
+      "m5JW",
+      "NrjF",
+      "8a36",
+      "SF0j",
+      "Q6qb",
+      "_locked",
+      "_locked_by",
+      "_archived",
+      "_creator",
+      "_ctime",
+      "_last_modifier",
+      "_mtime",
+      "_id"
+    ],
+    "Место работы": [
+      "0000",
+      "KVh7",
+      "2Kn4",
+      "b0ox",
+      "_locked",
+      "_locked_by",
+      "_archived",
+      "_creator",
+      "_ctime",
+      "_last_modifier",
+      "_mtime",
+      "_id"
+    ]
+  },
+  "data_by_table": {
+    "Почтовый адрес объекта": [
+      {
+        "0000": "ул.Строителей",
+        "pM3i": "1987",
+        "8cuE": "1",
+        "a58R": 20,
+        "XP4r": 62,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "2",
+        "CmFv": "2",
+        "496B": "20",
+        "7MCi": null,
+        "h6A8": "20",
+        "zNzD": 1027.1,
+        "9LRE": 901.9,
+        "7Fwi": true,
+        "96x2": "2030",
+        "ODQ4": [
+          {
+            "row_id": "ZGGUhmncQDuTosHBeFtkHA",
+            "display_value": "owner-0396"
+          },
+          {
+            "row_id": "CA9HJdOETneH26yqJWyVdQ",
+            "display_value": "owner-0397"
+          },
+          {
+            "row_id": "QBn8bdZ9RRGjGiyXbOACQQ",
+            "display_value": "owner-0398"
+          },
+          {
+            "row_id": "A6Y-mM6MRGqb-FM0e1WmKw",
+            "display_value": "owner-0399"
+          },
+          {
+            "row_id": "VJJrDhBRTly_p3CKVfzIvw",
+            "display_value": "owner-0400"
+          },
+          {
+            "row_id": "Nl0Bz-j9RJ-MM1b2SVANSQ",
+            "display_value": "owner-0401"
+          },
+          {
+            "row_id": "e_GvT90SSvqD1ZgpdnnMwg",
+            "display_value": "owner-0402"
+          },
+          {
+            "row_id": "Skjl1IrURB2X1wPzIcTP8g",
+            "display_value": "owner-0403"
+          },
+          {
+            "row_id": "AMXXl-pgRhCxq7jvUZGLjA",
+            "display_value": "owner-0404"
+          },
+          {
+            "row_id": "T9LcxHWjSC-Jw7XCXjz3AQ",
+            "display_value": "owner-0405"
+          }
+        ],
+        "TMoz": [
+          {
+            "row_id": "NPrj3w6BRjWpldF8KRXilw",
+            "display_value": "vgp-02550"
+          },
+          {
+            "row_id": "Vyg15ZfeQVaKEdnqY-eL5g",
+            "display_value": "vgp-02551"
+          },
+          {
+            "row_id": "Nfjv0R_9QzWf5tAPoENoow",
+            "display_value": "vgp-02552"
+          },
+          {
+            "row_id": "LLso-wpJSQK9CjgQL62nDA",
+            "display_value": "vgp-02553"
+          },
+          {
+            "row_id": "fmChtXY3SPSppEE7DXNqNQ",
+            "display_value": "vgp-02554"
+          },
+          {
+            "row_id": "G2sWJQOKSw2u1j5r5W9F6g",
+            "display_value": "vgp-02555"
+          },
+          {
+            "row_id": "HbFSUkBETSCulBzvYdv8gw",
+            "display_value": "vgp-02556"
+          },
+          {
+            "row_id": "fqiQWg7aT5OAzERyIML_vw",
+            "display_value": "vgp-02557"
+          },
+          {
+            "row_id": "ICgWHzwSSt2MYupFuKXQAQ",
+            "display_value": "vgp-02558"
+          },
+          {
+            "row_id": "O5VIdq4pTQ-fwfkznm9w6g",
+            "display_value": "vgp-02559"
+          }
+        ],
+        "q4ro": "распоряжение №665-Р от 08.12.2025",
+        "Tmkx": "2030-08-15T00:00:00+05:00",
+        "kB7R": "2030-12-15T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:05.59+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:53:53.831+05:00",
+        "_id": "Unq9mXJKT8mZ5JEvs7sqGQ"
+      },
+      {
+        "0000": "ул.Строителей",
+        "pM3i": "1987",
+        "8cuE": "3",
+        "a58R": 20,
+        "XP4r": 70,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "2",
+        "CmFv": "2",
+        "496B": "20",
+        "7MCi": null,
+        "h6A8": "20",
+        "zNzD": 1025.5,
+        "9LRE": 900.3,
+        "7Fwi": true,
+        "96x2": "2030",
+        "ODQ4": [
+          {
+            "row_id": "YlstrpNgTySSdqhYO_btUg",
+            "display_value": "owner-0416"
+          },
+          {
+            "row_id": "XGQpNUpcSr-j4Y1HxMLBMA",
+            "display_value": "owner-0417"
+          },
+          {
+            "row_id": "QUlglkeyQAaqaMVXC8ETDQ",
+            "display_value": "owner-0418"
+          },
+          {
+            "row_id": "E9L45xaUQ8WCe0tyrhrLQg",
+            "display_value": "owner-0419"
+          },
+          {
+            "row_id": "ZM645QhmQ-On2PP9fiIi6w",
+            "display_value": "owner-0420"
+          },
+          {
+            "row_id": "CQ4A0P2tQVOngL4mQPdPdg",
+            "display_value": "owner-0433"
+          },
+          {
+            "row_id": "WsboJZiYQJ-Mgnno8HCIkg",
+            "display_value": "owner-0434"
+          },
+          {
+            "row_id": "UXEim2FdT6mv6SE2A9MWvQ",
+            "display_value": "owner-0435"
+          },
+          {
+            "row_id": "A9eT-Ge3QCaoeGgFNhVCew",
+            "display_value": "owner-0429"
+          },
+          {
+            "row_id": "a3gM1Qq8Q2aYwBPQW6hl-Q",
+            "display_value": "owner-0430"
+          }
+        ],
+        "TMoz": [
+          {
+            "row_id": "KoJm7kdvTR6NQH_YkbAneA",
+            "display_value": "vgp-02960"
+          },
+          {
+            "row_id": "B7zus7FKSsieLE8QgOuTGA",
+            "display_value": "vgp-02961"
+          },
+          {
+            "row_id": "WziX3nxXTnyZJjImCfqArw",
+            "display_value": "vgp-02962"
+          },
+          {
+            "row_id": "ZGeX6XOQTfSTfp-VwzF71g",
+            "display_value": "vgp-02963"
+          },
+          {
+            "row_id": "FMITFw3aTCa2gDe1s6avtg",
+            "display_value": "vgp-02964"
+          },
+          {
+            "row_id": "aMU5oco_RpSE2yL2gH_Vbg",
+            "display_value": "vgp-02965"
+          },
+          {
+            "row_id": "C9ENRihfTpiKMSgsWgjmXQ",
+            "display_value": "vgp-02966"
+          },
+          {
+            "row_id": "IqgriZ4CR1K52jFC69lreQ",
+            "display_value": "vgp-02967"
+          },
+          {
+            "row_id": "c3GwWZQ0T7OIvJw2BefWrQ",
+            "display_value": "vgp-02969"
+          },
+          {
+            "row_id": "ZN437-slSNqWMTe8XFBn8w",
+            "display_value": "vgp-02970"
+          }
+        ],
+        "q4ro": "распоряжение №664-Р от 08.12.2025",
+        "Tmkx": "2030-08-15T00:00:00+05:00",
+        "kB7R": "2030-12-15T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:13.551+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:53:53.831+05:00",
+        "_id": "NouxtlfRSHyIQ--pAHojiA"
+      },
+      {
+        "0000": "ул.70 лет Октября",
+        "pM3i": "1987",
+        "8cuE": "2",
+        "a58R": 21,
+        "XP4r": 44,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "2",
+        "CmFv": "2",
+        "496B": "20",
+        "7MCi": null,
+        "h6A8": "20",
+        "zNzD": 1018.7,
+        "9LRE": 893.5,
+        "7Fwi": true,
+        "96x2": "2030",
+        "ODQ4": [
+          {
+            "row_id": "I5OUDvZGSj6M6Gfr-GgExg",
+            "display_value": "owner-0436"
+          },
+          {
+            "row_id": "DyMVto-TTxuOzLJZ7qswVw",
+            "display_value": "owner-0437"
+          },
+          {
+            "row_id": "Ii49AhuyQpOmLHc4P8nSNQ",
+            "display_value": "owner-0438"
+          },
+          {
+            "row_id": "XMTdscLbSM-xf0uQAoTstQ",
+            "display_value": "owner-0455"
+          },
+          {
+            "row_id": "FScfazW_RF2YGJxcz7b0Ig",
+            "display_value": "owner-0456"
+          },
+          {
+            "row_id": "JjFkA7UMTHOPsIs_wEWCVA",
+            "display_value": "owner-0453"
+          },
+          {
+            "row_id": "DfecesCgR5m4iYM2Yue-Vw",
+            "display_value": "owner-0454"
+          },
+          {
+            "row_id": "CWcKr0fdRwGBVR08vjPq-w",
+            "display_value": "owner-0451"
+          },
+          {
+            "row_id": "ZNdHXW4YS8mHUd_gnVaayA",
+            "display_value": "owner-0452"
+          },
+          {
+            "row_id": "SpgZli4TS1Ga1zq_JKAf-A",
+            "display_value": "owner-0449"
+          }
+        ],
+        "TMoz": [
+          {
+            "row_id": "aDZgTDXQSRqoS1sMtyBdBg",
+            "display_value": "vgp-00089"
+          },
+          {
+            "row_id": "Q5430mVqSHKqw6efguhwxg",
+            "display_value": "vgp-00090"
+          },
+          {
+            "row_id": "MjcXmD2BSzWFbaB7MpBe0w",
+            "display_value": "vgp-00091"
+          },
+          {
+            "row_id": "VCTO-bnDQ3SSXYkSyBvyJg",
+            "display_value": "vgp-00092"
+          },
+          {
+            "row_id": "EeZWB0vHRqqakSCulEPlYA",
+            "display_value": "vgp-00093"
+          },
+          {
+            "row_id": "Qoqc42DJRgqdJDqOMtPNlA",
+            "display_value": "vgp-00094"
+          },
+          {
+            "row_id": "Yflzd_uFSjGE2e567CW1LQ",
+            "display_value": "vgp-00095"
+          },
+          {
+            "row_id": "WhJLlhsfRoCM7oloijWcTQ",
+            "display_value": "vgp-00096"
+          },
+          {
+            "row_id": "Th37uyg2Tcq4b_wDeOlUSA",
+            "display_value": "vgp-00097"
+          },
+          {
+            "row_id": "A9K00EU_QxWCZM9B6v4pDQ",
+            "display_value": "vgp-00098"
+          }
+        ],
+        "q4ro": "распоряжение №668-Р от 08.12.2025",
+        "Tmkx": "2030-08-15T00:00:00+05:00",
+        "kB7R": "2030-12-15T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:13.551+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:55:53.271+05:00",
+        "_id": "RTafwUJsT4ym147BT2iYWg"
+      },
+      {
+        "0000": "ул.70 лет Октября",
+        "pM3i": null,
+        "8cuE": "1",
+        "a58R": 0,
+        "XP4r": 2,
+        "nC7g": null,
+        "VKZW": null,
+        "rmE3": null,
+        "CmFv": null,
+        "496B": null,
+        "7MCi": null,
+        "h6A8": null,
+        "zNzD": null,
+        "9LRE": null,
+        "7Fwi": null,
+        "96x2": null,
+        "ODQ4": [],
+        "TMoz": [
+          {
+            "row_id": "QLS8iAWDSQmsq64Re-yHfg",
+            "display_value": "vgp-04591"
+          },
+          {
+            "row_id": "CFz-MZuyRdKxjIhbwh3iAw",
+            "display_value": "vgp-04592"
+          }
+        ],
+        "q4ro": null,
+        "Tmkx": null,
+        "kB7R": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-18T12:14:14.037+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-18T12:14:15.5+05:00",
+        "_id": "CetUn4xVS-OF0rxE2AmkIw"
+      },
+      {
+        "0000": "ул.70 лет Октября",
+        "pM3i": "1987",
+        "8cuE": "4",
+        "a58R": 20,
+        "XP4r": 22,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "2",
+        "CmFv": "2",
+        "496B": "20",
+        "7MCi": null,
+        "h6A8": "7",
+        "zNzD": 1025.4,
+        "9LRE": 900.2,
+        "7Fwi": true,
+        "96x2": "2026",
+        "ODQ4": [
+          {
+            "row_id": "fOaHHuFmSs-_sPdM2wfMog",
+            "display_value": "owner-0457"
+          },
+          {
+            "row_id": "bMJzE_3YSVm5XAQn0Y2I2g",
+            "display_value": "owner-0458"
+          },
+          {
+            "row_id": "azgrIJxmRCOVcjC1Gd9THg",
+            "display_value": "owner-0459"
+          },
+          {
+            "row_id": "dNr2BnanTvGEEulVXxJCCg",
+            "display_value": "owner-0474"
+          },
+          {
+            "row_id": "ETC-QVQVRlWbN1przLYA-g",
+            "display_value": "owner-0475"
+          },
+          {
+            "row_id": "YVySgtm3R7ei8ZXdSHOTuA",
+            "display_value": "owner-0472"
+          },
+          {
+            "row_id": "Z9OukIHRT3CL5S-ORKev2w",
+            "display_value": "owner-0473"
+          },
+          {
+            "row_id": "enIN2w36TLqvfspBLwq2SQ",
+            "display_value": "owner-0470"
+          },
+          {
+            "row_id": "fi33vVY_S7ClPQ6C23gcOg",
+            "display_value": "owner-0471"
+          },
+          {
+            "row_id": "E6RkRCzqTBevAHHLFw5yyw",
+            "display_value": "owner-0468"
+          }
+        ],
+        "TMoz": [
+          {
+            "row_id": "AUkJGoodRKenS9B0GFPWlQ",
+            "display_value": "vgp-00459"
+          },
+          {
+            "row_id": "KLNwWIPyQmm98BnJ_lwVmg",
+            "display_value": "vgp-00460"
+          },
+          {
+            "row_id": "frdrYTMrR0maHKCkgKekdw",
+            "display_value": "vgp-00461"
+          },
+          {
+            "row_id": "IHqWuUXGSNaW7zDJKX-obA",
+            "display_value": "vgp-00462"
+          },
+          {
+            "row_id": "DDfLwiNyRCirAJaxjGEhmw",
+            "display_value": "vgp-00463"
+          },
+          {
+            "row_id": "CnE_tKXaTyKfRSnCPbyebw",
+            "display_value": "vgp-00464"
+          },
+          {
+            "row_id": "VjU3XQHCRtuFR9X9RCujqg",
+            "display_value": "vgp-00465"
+          },
+          {
+            "row_id": "B-1Rd7tySFGwFbu2N2-AZQ",
+            "display_value": "vgp-00466"
+          },
+          {
+            "row_id": "AvlCVu1ZT4S4QhEqQOXHCA",
+            "display_value": "vgp-00467"
+          },
+          {
+            "row_id": "HF-h8_V8QeiXoKOLl6bpxQ",
+            "display_value": "vgp-00468"
+          }
+        ],
+        "q4ro": "Распоряжение №Р-21 от 22.01.2021",
+        "Tmkx": "2025-03-14T00:00:00+05:00",
+        "kB7R": "2025-06-14T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:13.551+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:55:57.033+05:00",
+        "_id": "Ouz0VPhoRjSta3tm8-CYBQ"
+      },
+      {
+        "0000": "ул.70 лет Октября",
+        "pM3i": "1987",
+        "8cuE": "6",
+        "a58R": 20,
+        "XP4r": 39,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "2",
+        "CmFv": "2",
+        "496B": "20",
+        "7MCi": null,
+        "h6A8": "10",
+        "zNzD": 1026.1,
+        "9LRE": 902,
+        "7Fwi": true,
+        "96x2": "2027",
+        "ODQ4": [
+          {
+            "row_id": "E4V9TJ3bSQCRQfp8hX_oUw",
+            "display_value": "owner-0477"
+          },
+          {
+            "row_id": "WvVquqQTTpmzAQbSd8CVXQ",
+            "display_value": "owner-0478"
+          },
+          {
+            "row_id": "PfJYsxakSnixN1y3eh7Spg",
+            "display_value": "owner-0479"
+          },
+          {
+            "row_id": "fYwL47DOTNeunm6E6qAk9g",
+            "display_value": "owner-0480"
+          },
+          {
+            "row_id": "UKZNcDonTP-QTEwLD6pqqA",
+            "display_value": "owner-0490"
+          },
+          {
+            "row_id": "YTZrjjlbTGCfsVE1aFrqRg",
+            "display_value": "owner-0491"
+          },
+          {
+            "row_id": "CXfLKemYTQ2ncCwEf6fPrg",
+            "display_value": "owner-0492"
+          },
+          {
+            "row_id": "R97_pVQbTpyFSwGMX3kAvQ",
+            "display_value": "owner-0487"
+          },
+          {
+            "row_id": "Ju9YqN4XQO-0yt9mn15kLQ",
+            "display_value": "owner-0488"
+          },
+          {
+            "row_id": "Z4EZTFfbRRecOCYBWTG4Lg",
+            "display_value": "owner-0489"
+          }
+        ],
+        "TMoz": [
+          {
+            "row_id": "BsmWn-BtTZid-lrp75Bpfw",
+            "display_value": "vgp-00499"
+          },
+          {
+            "row_id": "NxBTQ5neTc6zpKu5p3MZEQ",
+            "display_value": "vgp-00500"
+          },
+          {
+            "row_id": "Z9Ac7OzhQ-6xBhL0TIBsqQ",
+            "display_value": "vgp-00501"
+          },
+          {
+            "row_id": "NEw0HJOARrCuWliaD85uAQ",
+            "display_value": "vgp-00502"
+          },
+          {
+            "row_id": "aZBGbDyxQ7uOooSLlN_vgQ",
+            "display_value": "vgp-00503"
+          },
+          {
+            "row_id": "Z2BMhYllRiGlE72dW8gnJA",
+            "display_value": "vgp-00504"
+          },
+          {
+            "row_id": "X6Hg79DJRD2rqAQk80e-jA",
+            "display_value": "vgp-00505"
+          },
+          {
+            "row_id": "Zr3FzbgORG-oXbzhzPvjnA",
+            "display_value": "vgp-00506"
+          },
+          {
+            "row_id": "UEmHz1F6S9aasha-NMvggQ",
+            "display_value": "vgp-00507"
+          },
+          {
+            "row_id": "WasEMqQRT3W9a3NyU48N_w",
+            "display_value": "vgp-00508"
+          }
+        ],
+        "q4ro": "Распоряжение №Р-146 от 04.04.2022",
+        "Tmkx": "2026-03-14T00:00:00+05:00",
+        "kB7R": "2026-06-14T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:13.551+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:56:11.487+05:00",
+        "_id": "aS4Ru_c8TAur_80QEQgl1A"
+      },
+      {
+        "0000": "ул.Ленина",
+        "pM3i": "1987",
+        "8cuE": "12",
+        "a58R": 16,
+        "XP4r": 15,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "2",
+        "CmFv": "2",
+        "496B": "16",
+        "7MCi": null,
+        "h6A8": "6",
+        "zNzD": 1074.2,
+        "9LRE": 885.3,
+        "7Fwi": true,
+        "96x2": "2027",
+        "ODQ4": [
+          {
+            "row_id": "EZ1iu2xOQ6KTv4NqZpyjSg",
+            "display_value": "owner-0497"
+          },
+          {
+            "row_id": "DrcaoqezQnWL4SMbFknJIQ",
+            "display_value": "owner-0498"
+          },
+          {
+            "row_id": "dGtzNKnqQl2M9w1_JfrGyg",
+            "display_value": "owner-0499"
+          },
+          {
+            "row_id": "cBq9Y5o5RL-jfN0mbtD7Hw",
+            "display_value": "owner-0504"
+          },
+          {
+            "row_id": "Djuj1njwQkKSLuxJ3gEbgA",
+            "display_value": "owner-0505"
+          },
+          {
+            "row_id": "IwBI1BI6SjixV1gJDVg5yA",
+            "display_value": "owner-0502"
+          },
+          {
+            "row_id": "FyuSllDAR1y_xQdWfDLdPg",
+            "display_value": "owner-0503"
+          },
+          {
+            "row_id": "fADAyQvNR_GLLe2oGwaWeA",
+            "display_value": "owner-0500"
+          },
+          {
+            "row_id": "dFVG7MCQSoa_nvBNrzKGkg",
+            "display_value": "owner-0501"
+          },
+          {
+            "row_id": "L5bQ0OvLSxia8OlZXweCbw",
+            "display_value": "owner-0506"
+          }
+        ],
+        "TMoz": [
+          {
+            "row_id": "etp5-AraTtmM-Rdc2bqliw",
+            "display_value": "vgp-00971"
+          },
+          {
+            "row_id": "G9kTsQfDQBOFvts5hW5mxg",
+            "display_value": "vgp-00972"
+          },
+          {
+            "row_id": "Z5J1By2gRTSj_AXZbz6YcA",
+            "display_value": "vgp-00973"
+          },
+          {
+            "row_id": "Jfe5zB3gSk6idTJkG0WHEQ",
+            "display_value": "vgp-00974"
+          },
+          {
+            "row_id": "dWsnRuMJQCe6gFiSQMJFmw",
+            "display_value": "vgp-00975"
+          },
+          {
+            "row_id": "dcXJB8oVSp6lGNh_6Ceozw",
+            "display_value": "vgp-00976"
+          },
+          {
+            "row_id": "O1Q438EATG69LrpkdRn72w",
+            "display_value": "vgp-00977"
+          },
+          {
+            "row_id": "E8pIcwdbQW-6tq6gdFpplA",
+            "display_value": "vgp-00978"
+          },
+          {
+            "row_id": "B4sVlX5qSqimAcyURskrqg",
+            "display_value": "vgp-00979"
+          },
+          {
+            "row_id": "UfC9E4mmQ2ygImIrdWka-w",
+            "display_value": "vgp-00980"
+          }
+        ],
+        "q4ro": "Распоряжение №Р-1098 от 16.05.2019",
+        "Tmkx": "2026-04-25T00:00:00+05:00",
+        "kB7R": "2027-04-25T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:13.551+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:56:39.85+05:00",
+        "_id": "FAjkKVVfQ7Si-y8Vy5v_-g"
+      },
+      {
+        "0000": "ул.Ленина",
+        "pM3i": "1987",
+        "8cuE": "12а",
+        "a58R": 16,
+        "XP4r": 26,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "2",
+        "CmFv": "2",
+        "496B": "16",
+        "7MCi": null,
+        "h6A8": "9",
+        "zNzD": 1074.5,
+        "9LRE": 897.4,
+        "7Fwi": true,
+        "96x2": "2027",
+        "ODQ4": [
+          {
+            "row_id": "TwxkU7t7RF-Ow38A2lfj6g",
+            "display_value": "owner-0513"
+          },
+          {
+            "row_id": "UtCVpiinTYKj24a_oKdBLg",
+            "display_value": "owner-0514"
+          },
+          {
+            "row_id": "At1drl_GT9es5DNMgyLGow",
+            "display_value": "owner-0515"
+          },
+          {
+            "row_id": "cR99WnldSfKZF0z6ilMQ3A",
+            "display_value": "owner-0527"
+          },
+          {
+            "row_id": "E6SIoU8iTR6K7LGVxBhDEQ",
+            "display_value": "owner-0528"
+          },
+          {
+            "row_id": "b3uV6K9sS-efke3-1Jz2Zg",
+            "display_value": "owner-0525"
+          },
+          {
+            "row_id": "dxMPyoLgRSagT8TF5lFMTQ",
+            "display_value": "owner-0526"
+          },
+          {
+            "row_id": "Rs82-43QQSe2bDFNuiEV6Q",
+            "display_value": "owner-0523"
+          },
+          {
+            "row_id": "Qkx5LubjSUOfQCH7JuSVDQ",
+            "display_value": "owner-0524"
+          },
+          {
+            "row_id": "AHLWDSf9QhCEJHOwKWEZpA",
+            "display_value": "owner-0521"
+          }
+        ],
+        "TMoz": [
+          {
+            "row_id": "O91nTmrQRgeKI8Ikb3JRfA",
+            "display_value": "vgp-00986"
+          },
+          {
+            "row_id": "Csa2shQQTnmMShh0MHaJwQ",
+            "display_value": "vgp-00987"
+          },
+          {
+            "row_id": "DwVWI1L2Q8m87rD6MkIzkg",
+            "display_value": "vgp-00988"
+          },
+          {
+            "row_id": "Mxr9gnNlSKikTxm9wJu6nw",
+            "display_value": "vgp-00989"
+          },
+          {
+            "row_id": "E622731gSuSeh53Lkgt_JA",
+            "display_value": "vgp-00990"
+          },
+          {
+            "row_id": "LDwgq4aDTn-kG8KgmunyDQ",
+            "display_value": "vgp-00991"
+          },
+          {
+            "row_id": "KvPppLM5TFKgMg52UfgxiQ",
+            "display_value": "vgp-00992"
+          },
+          {
+            "row_id": "C1UE-pkRRwiIMRcdSRRRfQ",
+            "display_value": "vgp-00993"
+          },
+          {
+            "row_id": "CrHag8S8QPuZ2aNwmCAYlg",
+            "display_value": "vgp-00994"
+          },
+          {
+            "row_id": "DBueYrOJRVi7azsKJ0lfNQ",
+            "display_value": "vgp-00995"
+          }
+        ],
+        "q4ro": "Распоряжение №Р-2266 от 20.09.2019",
+        "Tmkx": "2026-09-05T00:00:00+05:00",
+        "kB7R": "2027-09-05T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:13.551+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:56:39.85+05:00",
+        "_id": "B-vPiNlHT2OOlZHCy6W7Kg"
+      },
+      {
+        "0000": "ул.Ленина",
+        "pM3i": "1987",
+        "8cuE": "24",
+        "a58R": 6,
+        "XP4r": 0,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "3",
+        "CmFv": "1",
+        "496B": "6",
+        "7MCi": null,
+        "h6A8": "26",
+        "zNzD": 2629.8,
+        "9LRE": 379.6,
+        "7Fwi": true,
+        "96x2": "2027",
+        "ODQ4": [
+          {
+            "row_id": "Ab9YiItwQNeAqM_oFpkvPw",
+            "display_value": "owner-0355"
+          },
+          {
+            "row_id": "csx5l_uBTau6O7Cocaz14g",
+            "display_value": "owner-0354"
+          },
+          {
+            "row_id": "XNLYjF5BQHSASS7AvXPF7A",
+            "display_value": "owner-0356"
+          },
+          {
+            "row_id": "ZStIbdjATiiPQOlAYQFqZw",
+            "display_value": "owner-0357"
+          },
+          {
+            "row_id": "EA_YOPV-TBuXca7F3dRQsQ",
+            "display_value": "owner-0358"
+          },
+          {
+            "row_id": "K0r8JDi1RYqRL07HNP4wTA",
+            "display_value": "owner-0359"
+          }
+        ],
+        "TMoz": [],
+        "q4ro": "Распоряжение №Р-482 от 01.09.2021",
+        "Tmkx": "2026-03-14T00:00:00+05:00",
+        "kB7R": "2026-06-14T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:13.551+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:57:12.517+05:00",
+        "_id": "SwuV_iABSM6tK2wbJiZG2w"
+      },
+      {
+        "0000": "ул.Ленина",
+        "pM3i": "1987",
+        "8cuE": "24",
+        "a58R": 16,
+        "XP4r": 69,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "2",
+        "CmFv": "2",
+        "496B": "16",
+        "7MCi": null,
+        "h6A8": null,
+        "zNzD": null,
+        "9LRE": 900.2,
+        "7Fwi": true,
+        "96x2": null,
+        "ODQ4": [
+          {
+            "row_id": "QJB5rNH1SEe4eaSLaAllzQ",
+            "display_value": "owner-0545"
+          },
+          {
+            "row_id": "G6EV84tRQDSBqDfLu1CAzg",
+            "display_value": "owner-0546"
+          },
+          {
+            "row_id": "E61OnU8eSBiC3eBytNiVoA",
+            "display_value": "owner-0547"
+          },
+          {
+            "row_id": "DEaY32XPQyqTFitK2znasw",
+            "display_value": "owner-0550"
+          },
+          {
+            "row_id": "XCTX1U0WT0-DCqckUIS9sw",
+            "display_value": "owner-0551"
+          },
+          {
+            "row_id": "ZPYqzDhHT8qhZzcE1ESDGg",
+            "display_value": "owner-0548"
+          },
+          {
+            "row_id": "Lib4e-WvS_WH-k68RZhgog",
+            "display_value": "owner-0549"
+          },
+          {
+            "row_id": "UhWdx35_QeKfufNubByUyQ",
+            "display_value": "owner-0552"
+          },
+          {
+            "row_id": "HX1fyw0ETLu43Kr100ugLA",
+            "display_value": "owner-0553"
+          },
+          {
+            "row_id": "d8vH1ixDRNO8gFIKznbdNg",
+            "display_value": "owner-0554"
+          }
+        ],
+        "TMoz": [
+          {
+            "row_id": "AsnnmotUSpC_Ejgjql_Z1Q",
+            "display_value": "vgp-01058"
+          },
+          {
+            "row_id": "IUP1IAZ3RBme13Pw-wt0sg",
+            "display_value": "vgp-01059"
+          },
+          {
+            "row_id": "ZqK0OJ7uRiiwqqW6YTZnvQ",
+            "display_value": "vgp-01060"
+          },
+          {
+            "row_id": "Ti_opm0ZT0uqw3v3sFN7PQ",
+            "display_value": "vgp-01061"
+          },
+          {
+            "row_id": "MFLfJV4pQsSecFNQ4xUm2w",
+            "display_value": "vgp-01062"
+          },
+          {
+            "row_id": "VMUHm3TWRomWtYUaFRmxSw",
+            "display_value": "vgp-01063"
+          },
+          {
+            "row_id": "SZinniBySC6e-TizJq00tQ",
+            "display_value": "vgp-01064"
+          },
+          {
+            "row_id": "fdOcnrnATzmin6xfxDIMzw",
+            "display_value": "vgp-01065"
+          },
+          {
+            "row_id": "AtwiHXjNStWgaWl7MUYKKA",
+            "display_value": "vgp-01066"
+          },
+          {
+            "row_id": "dXo7qMIWSkqP15WTJPScqA",
+            "display_value": "vgp-01067"
+          }
+        ],
+        "q4ro": null,
+        "Tmkx": null,
+        "kB7R": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-12T10:53:32.155+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-18T11:26:28.161+05:00",
+        "_id": "LEFhNnFOTX6RizS-LkPeGw"
+      }
+    ],
+    "Собственники жилья": [
+      {
+        "0000": "owner-0001",
+        "Ce34": "Разяпов Рустам Мухтарович",
+        "46Kt": [],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "1",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "Св-во",
+        "c60U": 34.5,
+        "B3A8": 34.5,
+        "TorI": 1,
+        "fVy5": 34.5,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.027930699481865284,
+        "wWtZ": 27.930699481865283,
+        "9ymO": 0.028,
+        "6Ncf": 28,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 3,
+        "77U3": 0,
+        "wKSC": 1,
+        "mm6f": 34.5,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 0,
+        "d9R7": 0,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 0,
+        "xySw": 0,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T12:56:08.792+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-30T11:59:09.763+05:00",
+        "_id": "FAuFTmmBR9Kn6C-fEGFaNA"
+      },
+      {
+        "0000": "owner-0002",
+        "Ce34": "Сафина Гульнара Фаридовна",
+        "46Kt": [
+          {
+            "row_id": "FruCI9O2TxSq5_7XOrEuhQ",
+            "display_value": "Сафина Гульнара Фаридовна"
+          }
+        ],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "2",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "прив.",
+        "c60U": 51.1,
+        "B3A8": 51.1,
+        "TorI": 1,
+        "fVy5": 51.1,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.04136981865284974,
+        "wWtZ": 41.369818652849744,
+        "9ymO": 0.041,
+        "6Ncf": 41,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 0,
+        "77U3": 0,
+        "wKSC": 0,
+        "mm6f": 0,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 1,
+        "d9R7": 51.1,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 0,
+        "xySw": 0,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T14:14:05.305+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T12:33:53.401+05:00",
+        "_id": "fXvV1J_lRnyI1B3xbJoJtg"
+      },
+      {
+        "0000": "owner-0003",
+        "Ce34": "Бобров Евгений Анатольевич",
+        "46Kt": [],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "3",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "Св-во",
+        "c60U": 64.4,
+        "B3A8": 64.4,
+        "TorI": 1,
+        "fVy5": 64.4,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.05213730569948187,
+        "wWtZ": 52.13730569948187,
+        "9ymO": 0.052,
+        "6Ncf": 52,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 2,
+        "77U3": 0,
+        "wKSC": 0,
+        "mm6f": 0,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 0,
+        "d9R7": 0,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 1,
+        "xySw": 64.4,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T14:14:22.752+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-30T11:59:09.763+05:00",
+        "_id": "cN-kFISbQ22PKG8OR3i0Mg"
+      },
+      {
+        "0000": "owner-0004",
+        "Ce34": "Курилов Дмитрий Владимирович",
+        "46Kt": [],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "4",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "Св-во",
+        "c60U": 34,
+        "B3A8": 34,
+        "TorI": 1,
+        "fVy5": 34,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.027525906735751296,
+        "wWtZ": 27.525906735751295,
+        "9ymO": 0.028,
+        "6Ncf": 28,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 0,
+        "77U3": 0,
+        "wKSC": 1,
+        "mm6f": 34,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 0,
+        "d9R7": 0,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 0,
+        "xySw": 0,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T14:14:22.752+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-30T11:59:09.763+05:00",
+        "_id": "U8pOC-EfTZqvsvndmqemTg"
+      },
+      {
+        "0000": "owner-0005",
+        "Ce34": "Кошняну Георгий Степанович",
+        "46Kt": [
+          {
+            "row_id": "Bi3Lboi-SzCSXxWQtZYriA",
+            "display_value": "Кошняну Георгий Степанович"
+          }
+        ],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "5",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "прив. Исключ из казны муниц. Образов  г. Ноябрьск Приказ ДИО от 20.07.2010 № 427",
+        "c60U": 52.1,
+        "B3A8": 52.1,
+        "TorI": 1,
+        "fVy5": 52.1,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.04217940414507772,
+        "wWtZ": 42.17940414507772,
+        "9ymO": 0.042,
+        "6Ncf": 42,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 2,
+        "77U3": 0,
+        "wKSC": 0,
+        "mm6f": 0,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 1,
+        "d9R7": 52.1,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 0,
+        "xySw": 0,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T14:14:22.752+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T12:34:17.951+05:00",
+        "_id": "PJ9d66QKQsG-RdAY1YAuEw"
+      },
+      {
+        "0000": "owner-0006",
+        "Ce34": "Сурин Игорь Иванович",
+        "46Kt": [
+          {
+            "row_id": "Xv5WxeA4RdeoN2rV0KmC4w",
+            "display_value": "Сурин Игорь Иванович"
+          }
+        ],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "6",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "прив. Исключ из казны муниц. Образов  г. Ноябрьск Приказ ДИО от 20.07.2010 № 427",
+        "c60U": 62.3,
+        "B3A8": 62.3,
+        "TorI": 1,
+        "fVy5": 62.3,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.05043717616580311,
+        "wWtZ": 50.43717616580311,
+        "9ymO": 0.05,
+        "6Ncf": 50,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 4,
+        "77U3": 0,
+        "wKSC": 0,
+        "mm6f": 0,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 0,
+        "d9R7": 0,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 1,
+        "xySw": 62.3,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T14:14:22.752+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T12:34:18.013+05:00",
+        "_id": "BmbOVAF5QMG_Qeh5Gsz8lA"
+      },
+      {
+        "0000": "owner-0007",
+        "Ce34": "Федорова Татьяна Николаевна",
+        "46Kt": [
+          {
+            "row_id": "WIhwjJhNSXKCjSARM6Op-g",
+            "display_value": "Федорова Татьяна Николаевна"
+          }
+        ],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "7",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "прив. Исключ из казны муниц. Образов  г. Ноябрьск Приказ ДИО от 20.07.2010 № 427",
+        "c60U": 34.3,
+        "B3A8": 34.3,
+        "TorI": 1,
+        "fVy5": 34.3,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.027768782383419687,
+        "wWtZ": 27.768782383419687,
+        "9ymO": 0.028,
+        "6Ncf": 28,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 2,
+        "77U3": 0,
+        "wKSC": 1,
+        "mm6f": 34.3,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 0,
+        "d9R7": 0,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 0,
+        "xySw": 0,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T14:14:22.752+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T12:34:18.052+05:00",
+        "_id": "bl3h1UeyT5GV0Zbro9tUNw"
+      },
+      {
+        "0000": "owner-0008",
+        "Ce34": "Томчик Инна Николаевна",
+        "46Kt": [
+          {
+            "row_id": "V9Idq3CqTsqW74Ff08MuzA",
+            "display_value": "Томчик Инна Николаевна"
+          }
+        ],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "8",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "Св-во",
+        "c60U": 50.9,
+        "B3A8": 50.9,
+        "TorI": 1,
+        "fVy5": 50.9,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.041207901554404146,
+        "wWtZ": 41.207901554404145,
+        "9ymO": 0.041,
+        "6Ncf": 41,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 2,
+        "77U3": 0,
+        "wKSC": 0,
+        "mm6f": 0,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 1,
+        "d9R7": 50.9,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 0,
+        "xySw": 0,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T14:14:22.752+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T12:34:18.089+05:00",
+        "_id": "GXMJ2tDhT5y0z20fNE9hUQ"
+      },
+      {
+        "0000": "owner-0009",
+        "Ce34": "Гронин Владимир Сергеевич",
+        "46Kt": [
+          {
+            "row_id": "UZHCTab5T1SZqeyz1URavQ",
+            "display_value": "Гронин Владимир Сергеевич"
+          }
+        ],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "9",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "Св-во",
+        "c60U": 61.5,
+        "B3A8": 61.5,
+        "TorI": 1,
+        "fVy5": 61.5,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.04978950777202072,
+        "wWtZ": 49.78950777202072,
+        "9ymO": 0.05,
+        "6Ncf": 50,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 4,
+        "77U3": 0,
+        "wKSC": 0,
+        "mm6f": 0,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 0,
+        "d9R7": 0,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 1,
+        "xySw": 61.5,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T14:14:22.752+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T12:34:18.123+05:00",
+        "_id": "OLfxfR5tT7m2KKJbLrsL1A"
+      },
+      {
+        "0000": "owner-0010",
+        "Ce34": "Свинцова Ольга Владимировна",
+        "46Kt": [
+          {
+            "row_id": "YFy3CchHQxCd93Sgqw5xBg",
+            "display_value": "Свинцова Ольга Владимировна"
+          }
+        ],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "10",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "Исключ из казны муниц. Образов  г. Ноябрьск Приказ ДИО от 20.07.2010 № 427",
+        "c60U": 62.9,
+        "B3A8": 62.9,
+        "TorI": 1,
+        "fVy5": 62.9,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.05092292746113989,
+        "wWtZ": 50.92292746113989,
+        "9ymO": 0.051,
+        "6Ncf": 51,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 6,
+        "77U3": 0,
+        "wKSC": 0,
+        "mm6f": 0,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 0,
+        "d9R7": 0,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 1,
+        "xySw": 62.9,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T14:14:22.752+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T12:34:18.159+05:00",
+        "_id": "ZMvLbXnnQQOdviKn1uxGnA"
+      }
+    ],
+    "Список граждан Вынгапур": [
+      {
+        "0000": "vgp-00001",
+        "A1FW": "Теплякова Валентина Ивановна",
+        "zaig": "1958-02-12T00:00:00+05:00",
+        "r97I": "68 лет",
+        "5Go0": 68,
+        "LYjQ": "Пенсионный (66-75 лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "10",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "Собственник",
+        "1x99": [
+          "989929"
+        ],
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": true,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [
+          {
+            "row_id": "eD3-tDOHS8mfKsZ_xFGQ1w",
+            "display_value": "Теплякова Валентина Ивановна"
+          }
+        ],
+        "Q6qb": 1,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:12.125+05:00",
+        "_id": "ed1kRrqXRoS6ir_b8LYplg"
+      },
+      {
+        "0000": "vgp-00002",
+        "A1FW": "Долганина Ольга Геннадьевна",
+        "zaig": "1985-05-24T00:00:00+06:00",
+        "r97I": "40 лет",
+        "5Go0": 40,
+        "LYjQ": "Средний возраст (36-50 лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "10",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "",
+        "1x99": null,
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": false,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [],
+        "Q6qb": 0,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:34.403+05:00",
+        "_id": "LDfBcJLuRC-0QYWVWce69w"
+      },
+      {
+        "0000": "vgp-00003",
+        "A1FW": "Долганин Дмитрий Михайлович",
+        "zaig": "2004-08-20T00:00:00+06:00",
+        "r97I": "21 год",
+        "5Go0": 21,
+        "LYjQ": "Молодой взрослый (18-25 лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "10",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "",
+        "1x99": null,
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": false,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [],
+        "Q6qb": 0,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:34.431+05:00",
+        "_id": "N4n4tfR1RKGvn_9dm1--oA"
+      },
+      {
+        "0000": "vgp-00004",
+        "A1FW": "Долганин Лев Михайлович",
+        "zaig": "2010-11-19T00:00:00+05:00",
+        "r97I": "15 лет",
+        "5Go0": 15,
+        "LYjQ": "Старший подросток (15-17 лет)",
+        "oiDl": true,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "10",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "",
+        "1x99": null,
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": false,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [],
+        "Q6qb": 0,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:34.476+05:00",
+        "_id": "NkxVgfdGSMmx9WYwlL2BMQ"
+      },
+      {
+        "0000": "vgp-00005",
+        "A1FW": "Станских Елена Валерьевна",
+        "zaig": "1971-10-02T00:00:00+05:00",
+        "r97I": "54 года",
+        "5Go0": 54,
+        "LYjQ": "Пожилой (51-65 лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "12",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "",
+        "1x99": null,
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": false,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [],
+        "Q6qb": 0,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:34.494+05:00",
+        "_id": "RMmxwfiYRUuqdEBpYGkPzg"
+      },
+      {
+        "0000": "vgp-00006",
+        "A1FW": "Кузнецова Зинаида Федоровна",
+        "zaig": "1931-06-06T00:00:00+05:00",
+        "r97I": "94 года",
+        "5Go0": 94,
+        "LYjQ": "Долгожитель (76+ лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "13",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "",
+        "1x99": null,
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": false,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [],
+        "Q6qb": 0,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:34.511+05:00",
+        "_id": "AUkHbkk0S5u7affD8h64Eg"
+      },
+      {
+        "0000": "vgp-00007",
+        "A1FW": "Кузнецов Анатолий Сергеевич",
+        "zaig": "1984-10-04T00:00:00+05:00",
+        "r97I": "41 год",
+        "5Go0": 41,
+        "LYjQ": "Средний возраст (36-50 лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "13",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "",
+        "1x99": null,
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": false,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [],
+        "Q6qb": 0,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:34.528+05:00",
+        "_id": "ZMiEOvqNTx2PvXenS9TVYg"
+      },
+      {
+        "0000": "vgp-00008",
+        "A1FW": "Шевченко Ирина Вольдемаровна",
+        "zaig": "1958-02-26T00:00:00+05:00",
+        "r97I": "68 лет",
+        "5Go0": 68,
+        "LYjQ": "Пенсионный (66-75 лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "14",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "",
+        "1x99": [
+          "989929"
+        ],
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": true,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [],
+        "Q6qb": 0,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:34.545+05:00",
+        "_id": "F7roe0PVQ3ix-uC65dBLjA"
+      },
+      {
+        "0000": "vgp-00009",
+        "A1FW": "Велиева Елена Николаевна",
+        "zaig": "1958-10-14T00:00:00+05:00",
+        "r97I": "67 лет",
+        "5Go0": 67,
+        "LYjQ": "Пенсионный (66-75 лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "16",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "",
+        "1x99": [
+          "989929",
+          "995110"
+        ],
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": [
+          "569900"
+        ],
+        "3KHw": null,
+        "1sYx": true,
+        "VciU": true,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [],
+        "Q6qb": 0,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:34.575+05:00",
+        "_id": "LSFDSOdzSNa1aEOnVd7tMA"
+      },
+      {
+        "0000": "vgp-00010",
+        "A1FW": "Велиев Ахадага Мамедага оглы",
+        "zaig": "1961-07-01T00:00:00+05:00",
+        "r97I": "64 года",
+        "5Go0": 64,
+        "LYjQ": "Пожилой (51-65 лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "16",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "",
+        "1x99": [
+          "989929"
+        ],
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": true,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [],
+        "Q6qb": 0,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:34.596+05:00",
+        "_id": "P2yzYshDRDmaPGD3cOJ2pw"
+      }
+    ],
+    "Место работы": [
+      {
+        "0000": "МБУ \"РЦДИПВ \"Кадет\"",
+        "KVh7": [
+          {
+            "row_id": "Jdhp1XCIQw2icoZJONGOxQ",
+            "display_value": "Абдуллина Гузель Маратовна"
+          },
+          {
+            "row_id": "KtvRF_XETXaFzyFKDs8wmg",
+            "display_value": "Снарский Иван Степанович"
+          },
+          {
+            "row_id": "O_NO6dwWQuiKDDXXUlqnmg",
+            "display_value": "Федорова Лариса Ивановна"
+          },
+          {
+            "row_id": "JD6CLA9HTmiFYgcFwmsxSA",
+            "display_value": "Зубкова Татьяна Евгеньевна"
+          },
+          {
+            "row_id": "TY5U3yfvQqqzDFf6AKF_Gg",
+            "display_value": "Погорелова Ольга Владимировна"
+          },
+          {
+            "row_id": "LOqfkW5ZQjODltXYaSLqrg",
+            "display_value": "Миргалиева Винера Фаридовна"
+          },
+          {
+            "row_id": "c_Hk38UIQSykPdaPOn9_NA",
+            "display_value": "Моисеенко Анатолий Анатольевич"
+          },
+          {
+            "row_id": "Dau9oor-RFWU77zmEkaYMw",
+            "display_value": "Малашинина Светлана Алексеевна"
+          },
+          {
+            "row_id": "cX3Uggg4R2mZwHyir6qmFA",
+            "display_value": "Татаринцева Елена Владимировна"
+          },
+          {
+            "row_id": "MnayXuRSRdiTxkymeHMRlA",
+            "display_value": "Николаева Александра Павловна"
+          }
+        ],
+        "2Kn4": 10,
+        "b0ox": "672421",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-04T17:10:27.884+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-27T17:14:43.946+05:00",
+        "_id": "aNjC8kojSnqidQxk4IT4pA"
+      },
+      {
+        "0000": "АО \"ВТВК\"",
+        "KVh7": [
+          {
+            "row_id": "fJjyUznoT5excoqL105ZCw",
+            "display_value": "Скребцова Елена Анатольевна"
+          },
+          {
+            "row_id": "HC_qnssbQ4WMVfnJUs4GIw",
+            "display_value": "Астахова Елена Васильевна"
+          },
+          {
+            "row_id": "MIiGV227SY6Qxi4DBv94Ig",
+            "display_value": "Афеева Светлана Николаевна"
+          },
+          {
+            "row_id": "DFgKMxOvQWyNJqwkg_nLeg",
+            "display_value": "Могила Сергей Вячеславович"
+          },
+          {
+            "row_id": "HW8Wq8LmRu2DWf1GA5g1yw",
+            "display_value": "Могила Вячеслав Михайлович"
+          },
+          {
+            "row_id": "JHhLUFdSQluCwWYzODD07Q",
+            "display_value": "Рубцова Татьяна Валентиновна"
+          },
+          {
+            "row_id": "EH9F8qbjTImk2CmAiuGTug",
+            "display_value": "Биембетов Газизьян Ахметьянович"
+          },
+          {
+            "row_id": "H9g9TRe6Tf-AziVBTjZimQ",
+            "display_value": "Хуторянский Дмитрий Александрович"
+          },
+          {
+            "row_id": "cfyWcGCpQxG_kUk4x4tX2Q",
+            "display_value": "Кошняну Оксана Васильевна"
+          },
+          {
+            "row_id": "AOf9C6a4SWS9exJbL_vu5Q",
+            "display_value": "Алещенко Евгения Сергеевна"
+          }
+        ],
+        "2Kn4": 56,
+        "b0ox": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-19T10:50:46.443+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-19T10:50:47.117+05:00",
+        "_id": "AoSzSAvPRQ6vTYskAjlEvw"
+      },
+      {
+        "0000": "АО \"Газпромнефть-ННГ\"",
+        "KVh7": [
+          {
+            "row_id": "VuSMuRP7RzC0YnW5ZgPQog",
+            "display_value": "Хакимов Джахонгир Баходирджонович"
+          },
+          {
+            "row_id": "CZqwaNDYS1ORAq1xqeslag",
+            "display_value": "Союкова Юлия Сергеевна"
+          },
+          {
+            "row_id": "Nfl1ACvgTZm1EAAz7qCv0g",
+            "display_value": "Ибрагимов Насир Нурметович"
+          },
+          {
+            "row_id": "fwau8yRYRKWai-YLfxG7kg",
+            "display_value": "Равдугина Лилия Викторовна"
+          },
+          {
+            "row_id": "DHAJYzYcRS2oEC90pFmM-Q",
+            "display_value": "Шнайдер Константин Робертович"
+          },
+          {
+            "row_id": "dnKse5MHT96MHfZ4Thddlw",
+            "display_value": "Гладких Владимир Сергеевич"
+          },
+          {
+            "row_id": "aUYA2oaNQb2sxRWvtbseyQ",
+            "display_value": "Демчуков Сергей Степанович"
+          },
+          {
+            "row_id": "IUX3hQdsR0m6DA8jlsWcyw",
+            "display_value": "Демчукова Иннесса Николаевна"
+          },
+          {
+            "row_id": "OTxybOJ3TEaegBdyGNYb_g",
+            "display_value": "Анастасов Сергей Сергеевич"
+          },
+          {
+            "row_id": "e4rYntuMTfKDIX6d_S5V5w",
+            "display_value": "Анастасова Аннагуль Таганклычевна"
+          }
+        ],
+        "2Kn4": 97,
+        "b0ox": "361012",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-19T10:51:02.753+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-30T13:20:53.741+05:00",
+        "_id": "d8OdSKshRAKnOZ966PpYqg"
+      },
+      {
+        "0000": "ГБУЗ ЯНАО \"Ноябрьская ЦГБ\"",
+        "KVh7": [
+          {
+            "row_id": "a9rfelJqQCylTlT6fHdeVQ",
+            "display_value": "Защепкина Галина Сергеевна"
+          },
+          {
+            "row_id": "c6w7iWAESKSB3qlUYUBgWw",
+            "display_value": "Зиянгирова Лэйсан Нурзыевна"
+          },
+          {
+            "row_id": "Ty6cgdyPRieieMwJfXHidQ",
+            "display_value": "Зиянгирова Юлия Олеговна"
+          },
+          {
+            "row_id": "HrCGH72JTuCT42clYhnT2g",
+            "display_value": "Ибрагимова Эсмира Агасаф кызы"
+          },
+          {
+            "row_id": "O9ZVJHWsRai55U30MN2EWg",
+            "display_value": "Карамова Светлана Александровна"
+          },
+          {
+            "row_id": "Q3vbdd-UT3WwxSdkgRj-EA",
+            "display_value": "Ковалева Наталия Викторовна"
+          },
+          {
+            "row_id": "GM3cPgvHSE2yp38fX6iJWw",
+            "display_value": "Конойко Николай Васильевич"
+          },
+          {
+            "row_id": "GXyX2mhdS46wchV0IpFayw",
+            "display_value": "Круду Алла Борисовна"
+          },
+          {
+            "row_id": "efqI6lONS2eLquddPKASWA",
+            "display_value": "Лобачева Ирина Васильевна"
+          },
+          {
+            "row_id": "CIgDR1h5QKG9swovTQDxJw",
+            "display_value": "Лукьянович Марина Валерьевна"
+          }
+        ],
+        "2Kn4": 63,
+        "b0ox": "672421",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-19T10:51:08.513+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T15:41:14.349+05:00",
+        "_id": "PnYQ1kbBTEyzi49iguzi1A"
+      },
+      {
+        "0000": "МАУК ГДКИК \"Русь\"",
+        "KVh7": [
+          {
+            "row_id": "CEkYkwfaT8Wb-HbSQw_klw",
+            "display_value": "Арион Ангелина Дмитриевна"
+          },
+          {
+            "row_id": "YegW7sXASMi6VWlP5A4Iwg",
+            "display_value": "Вшивкова Марина Владимировна"
+          },
+          {
+            "row_id": "QAt2Pdu2Rr-zQ-xi_VV8ew",
+            "display_value": "Карамушка Ирина Валерьевна"
+          },
+          {
+            "row_id": "SUTacHQjSHydt8pjV-_U2g",
+            "display_value": "Кузнецова Юлия Сергеевна"
+          },
+          {
+            "row_id": "YgplAjs_T-qmcy-Ho2m5cA",
+            "display_value": "Шишкина Инна Сергеевна"
+          },
+          {
+            "row_id": "crTdGZt_SNWPb7magRjurw",
+            "display_value": "Ефимчик Максим Сергеевич"
+          },
+          {
+            "row_id": "K24k31tGTS2gD3CFHrGoow",
+            "display_value": "Левковская Дана Юрьевна"
+          },
+          {
+            "row_id": "T4GMQrqQSFim2GZBUfEgEw",
+            "display_value": "Швецова Наталья Константиновна"
+          },
+          {
+            "row_id": "TbvC2wp9Tka_QUJohrb19g",
+            "display_value": "Степашко Кристина Вячеславовна"
+          },
+          {
+            "row_id": "QurcT2zkSqymNhjeuEtW0g",
+            "display_value": "Гилеева Лариса Викторовна"
+          }
+        ],
+        "2Kn4": 10,
+        "b0ox": "672421",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-19T10:51:12.757+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-27T17:14:46.633+05:00",
+        "_id": "cgTYBIRXQ-60D0Q-uyJSJQ"
+      },
+      {
+        "0000": "МАУ \"СОК \"Зенит\" им. Юрия Морозова\"",
+        "KVh7": [
+          {
+            "row_id": "GUIYBkd0TPKKtBHPLmSXHQ",
+            "display_value": "Кондракова Раиса Федоровна"
+          },
+          {
+            "row_id": "PwE3Kv7sRmGEN9teDeTgOg",
+            "display_value": "Гордаш Полина Калиновна"
+          },
+          {
+            "row_id": "OnKMcSylSWK7WbFQYMXzbQ",
+            "display_value": "Штебнер Наталья Куприяновна"
+          },
+          {
+            "row_id": "LMQyOH_NQV6E2emSLx-H-A",
+            "display_value": "Завада Анатолий Николаевич"
+          },
+          {
+            "row_id": "UeUmhpOGQj-9a4mURCnugA",
+            "display_value": "Велибекова Фаима Абдулагаевна"
+          },
+          {
+            "row_id": "RmYVvGLrSlu-oEcqIlHokA",
+            "display_value": "Карамушка Валерий Александрович"
+          },
+          {
+            "row_id": "XjmkCh26QZur8X_zm2j_9A",
+            "display_value": "Карамова Эльмира Наиловна"
+          },
+          {
+            "row_id": "Rn-OvcVoS6GsKm0J3AQGkw",
+            "display_value": "Пустозерова Юлия Анатольевна"
+          },
+          {
+            "row_id": "Rx6Ds4g2QX6pjQq2av9HmQ",
+            "display_value": "Котович Павел Николаевич"
+          },
+          {
+            "row_id": "L_JqSO8DTaSo4ItiwKuhWA",
+            "display_value": "Вагапов Расих Минахметович"
+          }
+        ],
+        "2Kn4": 31,
+        "b0ox": "672421",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-19T10:51:17.483+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-27T17:14:49.018+05:00",
+        "_id": "GTaVxOaLR92kt5sc8_sXqw"
+      },
+      {
+        "0000": "МБУ ДО ДМШ №2 им. В. А. Коха",
+        "KVh7": [
+          {
+            "row_id": "KzyaoBJgRiWjoA3GX20MvQ",
+            "display_value": "Рождествина Елена Фанзатовна"
+          },
+          {
+            "row_id": "OWZJSXZgTfGhK_VW1mzpyw",
+            "display_value": "Акуленок Лариса Сергеевна"
+          },
+          {
+            "row_id": "FW9XSxa1Q4WH2x5MUoYXSg",
+            "display_value": "Хасанова Анжелика Фанисовна"
+          },
+          {
+            "row_id": "P2aNWOSnRZq-ytjxTSKGDw",
+            "display_value": "Юров Ростислав Константинович"
+          },
+          {
+            "row_id": "NV8lwpdQSfCU24HYSGPjNg",
+            "display_value": "Васильева Ксения Владимировна"
+          },
+          {
+            "row_id": "UOZAeaWITFucSngVlXtlkw",
+            "display_value": "Чикунов Дмитрий Александрович"
+          },
+          {
+            "row_id": "Ek5RcDYuTYOFR5HFXYb8-A",
+            "display_value": "Семиренко Анастасия Сергеевна"
+          },
+          {
+            "row_id": "REylfGJ1QDChwG72FIniRw",
+            "display_value": "Юртина Наталья Викторовна"
+          },
+          {
+            "row_id": "PqY5_kmiSz2gScIJJEfRSQ",
+            "display_value": "Мамадова Лола Ниёзалиевна"
+          },
+          {
+            "row_id": "Ah2UpY5YSXmorN5A_MQMVA",
+            "display_value": "Воронков Сергей Петрович"
+          }
+        ],
+        "2Kn4": 16,
+        "b0ox": "672421",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-19T10:51:24.77+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-27T17:14:51.105+05:00",
+        "_id": "CEDsMEQsSQGRAtkR3dOEqA"
+      },
+      {
+        "0000": "ООО \"Газпром Добыча Ноябрьск\"",
+        "KVh7": [
+          {
+            "row_id": "fYcoGDrQTHmfoXFU3rm77w",
+            "display_value": "Березов Сергей Тимофеевич"
+          },
+          {
+            "row_id": "cNUpDITFTWmE3ZsYtOslog",
+            "display_value": "Жидяев Сергей Викторович"
+          },
+          {
+            "row_id": "duQgtkniTqGOADHRpSDmqA",
+            "display_value": "Каштанов Сергей Александрович"
+          },
+          {
+            "row_id": "agvEfWLQTDayJHD_TlxVjg",
+            "display_value": "Климчук Сергей Викторович"
+          },
+          {
+            "row_id": "RDtPPvEDREmoHJRBwr83Lg",
+            "display_value": "Ковалев Алексей Семенович"
+          },
+          {
+            "row_id": "OqW0MhSeR1q92rj41PKIhA",
+            "display_value": "Лёвкин Андрей Валерьевич"
+          },
+          {
+            "row_id": "Bo4JUlTlR8qturdr4zKIBA",
+            "display_value": "Паничерский Валерий Иванович"
+          },
+          {
+            "row_id": "Q5r8udqrSHqfIRIJ0mvg6A",
+            "display_value": "Урсу Евгений Андреевич"
+          },
+          {
+            "row_id": "cQPTv5FqQ92UYd8lb_rVrQ",
+            "display_value": "Халиков Руслан Рашидович"
+          },
+          {
+            "row_id": "fqUHXPIBSniYp607OimmHA",
+            "display_value": "Янчук Дмитрий Владимирович"
+          }
+        ],
+        "2Kn4": 13,
+        "b0ox": "361012",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-19T10:51:37.982+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-27T17:14:53.418+05:00",
+        "_id": "RiR7P86nQ5WzitBS3YUaXA"
+      },
+      {
+        "0000": "Филиал Электрические сети АО \"ЭГН\"",
+        "KVh7": [
+          {
+            "row_id": "W5zoDmkJT0CeVLWCSJtJrw",
+            "display_value": "Ахметьянова Лилия Равиловна"
+          },
+          {
+            "row_id": "TT4LUEDxSm2dwn1KcHmm-A",
+            "display_value": "Васильев Алексей Николаевич"
+          },
+          {
+            "row_id": "E8Tdbc7ATw25HJVxfn_pVg",
+            "display_value": "Волков Максим Владимирович"
+          },
+          {
+            "row_id": "dW-8VsZ_SlW4yIdx5QSH5A",
+            "display_value": "Зырянов Алексей Арьевич"
+          },
+          {
+            "row_id": "M_VvVa4uQuO1Wj3t1Ryqdw",
+            "display_value": "Панин Сергей Юрьевич"
+          },
+          {
+            "row_id": "YEsL9B7iTKKuspcgrgBTkQ",
+            "display_value": "Бабаев Эльбурус Таваккуль оглы"
+          }
+        ],
+        "2Kn4": 6,
+        "b0ox": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-19T10:51:43.99+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-19T10:51:44.217+05:00",
+        "_id": "VHoQrn63S5CZ8uk4eRhwMQ"
+      },
+      {
+        "0000": "Муниципальное бюджетное дошкольное образовательное учреждение \"Теремок\" города Ноябрьска",
+        "KVh7": [
+          {
+            "row_id": "IV6gYm6vRVmewYF4bHpDTw",
+            "display_value": "Халилова Тунзаля Гаджи кызы"
+          },
+          {
+            "row_id": "FY2TUiVnSZ6Da2lvn4rLxg",
+            "display_value": "Миргалиева Разима Мунсировна"
+          },
+          {
+            "row_id": "ekU-4SVmRwSwvPSYhA20Qg",
+            "display_value": "Долгих Ксения Валерьевна"
+          },
+          {
+            "row_id": "fqMh-DXRRL-bQpRUrohXxg",
+            "display_value": "Зиннурова Лилия Вахитовна"
+          },
+          {
+            "row_id": "H6UqYrl_QpSeuJYlT_Py6A",
+            "display_value": "Янголенко Наталья Викторовна"
+          },
+          {
+            "row_id": "cDAesstPS4aocaI1NHRNrg",
+            "display_value": "Шубина Гузель Могаллимовна"
+          },
+          {
+            "row_id": "GM9lc1F5TpirEJLxQ37GiQ",
+            "display_value": "Бабаева Валентина Николаевна"
+          },
+          {
+            "row_id": "O1f7e01tTKypzKDVd5WxUA",
+            "display_value": "Байсаева Земфира Винаристовна"
+          },
+          {
+            "row_id": "Ion0XBs7R3ik1Wu85nctCA",
+            "display_value": "Старовойтова Ирина Эриковна"
+          },
+          {
+            "row_id": "B-_NYoToQJuNIdCxW8-TxA",
+            "display_value": "Комарова Лилия Венеровна"
+          }
+        ],
+        "2Kn4": 35,
+        "b0ox": "672421",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-19T10:51:48.442+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-27T17:14:58.989+05:00",
+        "_id": "fCpUTLA4S0KzmknJEDr8aA"
+      }
+    ]
+  },
+  "column_matches": {
+    "0000": [
+      "Почтовый адрес объекта",
+      "Собственники жилья",
+      "Список граждан Вынгапур",
+      "Место работы"
+    ],
+    "_locked": [
+      "Почтовый адрес объекта",
+      "Собственники жилья",
+      "Список граждан Вынгапур",
+      "Место работы"
+    ],
+    "_locked_by": [
+      "Почтовый адрес объекта",
+      "Собственники жилья",
+      "Список граждан Вынгапур",
+      "Место работы"
+    ],
+    "_archived": [
+      "Почтовый адрес объекта",
+      "Собственники жилья",
+      "Список граждан Вынгапур",
+      "Место работы"
+    ],
+    "_creator": [
+      "Почтовый адрес объекта",
+      "Собственники жилья",
+      "Список граждан Вынгапур",
+      "Место работы"
+    ],
+    "_ctime": [
+      "Почтовый адрес объекта",
+      "Собственники жилья",
+      "Список граждан Вынгапур",
+      "Место работы"
+    ],
+    "_last_modifier": [
+      "Почтовый адрес объекта",
+      "Собственники жилья",
+      "Список граждан Вынгапур",
+      "Место работы"
+    ],
+    "_mtime": [
+      "Почтовый адрес объекта",
+      "Собственники жилья",
+      "Список граждан Вынгапур",
+      "Место работы"
+    ],
+    "_id": [
+      "Почтовый адрес объекта",
+      "Собственники жилья",
+      "Список граждан Вынгапур",
+      "Место работы"
+    ]
+  }
+}

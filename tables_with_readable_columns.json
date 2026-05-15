@@ -1,0 +1,311 @@
+{
+  "base_uuid": "65d08730-22fb-45db-b8be-19fb42cbafb2",
+  "tables": {
+    "Богданович ОА": {
+      "first_row": {
+        "Номер регистрации": "1",
+        "Дата регистрации": "2025-01-09T00:00:00+05:00",
+        "индекс": "ОК",
+        "Откуда": [
+          {
+            "row_id": "Q2E6yarFQUmLj7SVDfK3uQ",
+            "display_value": "ПУ"
+          }
+        ],
+        "от кого": "Чоп В.Ю.",
+        "Содержание документа": "Чоп В.Ю. отпуск по беременности и родам 118  к.д. 14.01.2025- 11.05.2025",
+        "Вопрос": [
+          {
+            "row_id": "VOgTfx7RQK6G4f15t1e4WQ",
+            "display_value": "отпуск по беременности и родам"
+          }
+        ],
+        "Вопрос_3": "отпуск по беременности и родам",
+        "Подписант": null,
+        "Рассылка": [],
+        "исполнитель": "Богданович О.А.",
+        "год": 2025,
+        "Автор": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_ctime": "2025-10-17T15:20:26.516+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2025-10-23T15:16:16.805+05:00",
+        "_id": "IqhV3HZXRA6CvNlTcRy4lw"
+      }
+    },
+    "Скворцова ОН": {
+      "first_row": {
+        "Номер регистрации": 1,
+        "Дата регистрации": "2025-01-14T00:00:00+05:00",
+        "Откуда": [
+          {
+            "row_id": "TOgXcJcETbSoiYeGj0CPAA",
+            "display_value": "ОБУиО"
+          }
+        ],
+        "от кого": "Квитко С.Д.",
+        "Содержание документа": "Квитко С.Д.\n  перевод с 14.01.2025",
+        "Подписант": null,
+        "Вопрос": [
+          {
+            "row_id": "euVsbcMSTIy2Ve8lGygJ2w",
+            "display_value": "Перевод"
+          }
+        ],
+        "Рассылка": [],
+        "Исполнитель": "Скворцова О.Н.",
+        "Вид документа": "Дополнительное соглашение",
+        "Год": 2025,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2025-10-22T15:35:45.184+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2025-10-28T17:50:04.188+05:00",
+        "_id": "VTR5ZcbIRgKkFN5t3_jwNA"
+      }
+    },
+    "Регистрация": {
+      "first_row": {
+        "Номер регистрации": 8,
+        "Дата регистрации": "2025-01-24T00:00:00+05:00",
+        "Откуда": [
+          {
+            "row_id": "Pdvw8TOXTxWkMlFcdkgW9g",
+            "display_value": "УД"
+          }
+        ],
+        "от кого": "Петренко А.Ю.",
+        "Содержание документа": "Петренко А.Ю. изменение фамилии на фамилию  Кокова",
+        "Исполнитель": "Скворцова О.Н.",
+        "Вопрос": [
+          {
+            "row_id": "Hu8YZaGmTLiePDm0BF-ySg",
+            "display_value": "Изменение фамилии"
+          }
+        ],
+        "Вид документа": "Заявление",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2025-11-02T19:49:51.217+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2025-11-02T20:04:25.418+05:00",
+        "_id": "UzoBOVsZSgWF5x6_4Ly1_w"
+      }
+    },
+    "Список рассылки": {
+      "first_row": {
+        "Кому": "ОМСиКР УД      Маслова Н.В.",
+        "Богданович ОА": [],
+        "Скворцова ОН": [
+          {
+            "row_id": "QAqlbQuvSBefmv0xQklVag",
+            "display_value": 85
+          }
+        ],
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "c527464523e44b25917b5749fdc7bece@auth.local",
+        "_ctime": "2025-10-31T10:44:01.474+05:00",
+        "_last_modifier": "c527464523e44b25917b5749fdc7bece@auth.local",
+        "_mtime": "2025-10-31T10:44:01.474+05:00",
+        "_id": "EyQogA6gT4GPHzRP6k_6Qw"
+      }
+    },
+    "Справочник вопросы": {
+      "first_row": {
+        "Вопрос": "Совмещение должности",
+        "Богданович ОА": [
+          {
+            "row_id": "EZHtAB01QpaylP4ZbCKg_g",
+            "display_value": "3"
+          },
+          {
+            "row_id": "JmnqPvY0SEe1v_oJxWuhWA",
+            "display_value": "6"
+          },
+          {
+            "row_id": "ZAFqmXmiTCedQ8dEItmUnQ",
+            "display_value": "11"
+          },
+          {
+            "row_id": "W-3IheeGTpG0ATX0Fv1W1A",
+            "display_value": "23"
+          },
+          {
+            "row_id": "DXwa5oSJScuGqXavvzYofA",
+            "display_value": "25"
+          },
+          {
+            "row_id": "Wuks6YaiQSOYDvSXuV5_NQ",
+            "display_value": "34"
+          },
+          {
+            "row_id": "PlBAipufSD6HGiDa7kbD9A",
+            "display_value": "36"
+          },
+          {
+            "row_id": "STJcJl79T_-aSbAr-pw_Yw",
+            "display_value": "40"
+          },
+          {
+            "row_id": "EapI_5jHSciCDQULnSpXFg",
+            "display_value": "45"
+          },
+          {
+            "row_id": "DQBruL6YQ72dGkMrd8Py0Q",
+            "display_value": "75"
+          }
+        ],
+        "Скворцова ОН": [
+          {
+            "row_id": "Esn9E2IFQPWQiyE0RhQ5kA",
+            "display_value": 13
+          },
+          {
+            "row_id": "dHIFyN6oTrOVXE_KDlR3uQ",
+            "display_value": 14
+          },
+          {
+            "row_id": "b-WHCsfaR6G-q-GHTTmGyw",
+            "display_value": 15
+          },
+          {
+            "row_id": "WkLYaWe-S4uzjnFR8a8Giw",
+            "display_value": 22
+          },
+          {
+            "row_id": "RCczgzjGTFGNwxmLXngmaw",
+            "display_value": 23
+          },
+          {
+            "row_id": "SYJtpOiTSESQVJfCNjo9TQ",
+            "display_value": 35
+          }
+        ],
+        "Регистрация": [],
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2025-10-28T16:46:48.365+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2025-10-28T16:46:49.775+05:00",
+        "_id": "W-8lRk9ERf6Fqcyc5Bic4w"
+      }
+    },
+    "Справочник подразделения": {
+      "first_row": {
+        "Name": "ОДА",
+        "Богданович ОА": [
+          {
+            "row_id": "HITVFE67QZKnR3IAyYBzNg",
+            "display_value": "31"
+          },
+          {
+            "row_id": "Sv8zc04NShKfmdR1c56jsg",
+            "display_value": "89"
+          }
+        ],
+        "Скворцова ОН": [
+          {
+            "row_id": "VqiSioP3TM6QMD2HApHaPQ",
+            "display_value": 9
+          },
+          {
+            "row_id": "SYJtpOiTSESQVJfCNjo9TQ",
+            "display_value": 35
+          },
+          {
+            "row_id": "LzHvM0ZtQa-kVD-ETEC5Qw",
+            "display_value": 65
+          },
+          {
+            "row_id": "FCxrznFGRXmbakh2PVRdjg",
+            "display_value": 66
+          },
+          {
+            "row_id": "ckkqeBsqTr6yUboq0NnjBg",
+            "display_value": 70
+          },
+          {
+            "row_id": "JOf25kCWSIi5iHytmVq_aA",
+            "display_value": 17
+          },
+          {
+            "row_id": "dBLgPLmgS66cniJPvYubpw",
+            "display_value": 18
+          },
+          {
+            "row_id": "eDzYIwhlRc2Edi7E2j1Gow",
+            "display_value": 53
+          },
+          {
+            "row_id": "R9RJlmTfS6qAxfFbicFHlw",
+            "display_value": 60
+          },
+          {
+            "row_id": "QXRQuMJlTlOcKyrmFh2PgQ",
+            "display_value": 62
+          }
+        ],
+        "Регистрация": [
+          {
+            "row_id": "RF8rAiayTUuDVbWw4KBAaw",
+            "display_value": 16
+          },
+          {
+            "row_id": "Ybmkc4NATTeY2Q3bt0zmIg",
+            "display_value": 85
+          },
+          {
+            "row_id": "E5EjG9bwS4SyUgGCFachXg",
+            "display_value": 86
+          },
+          {
+            "row_id": "Pekz7Rl5TcehRY30rMDnwQ",
+            "display_value": 89
+          },
+          {
+            "row_id": "XHpTJaJyQFuGw87Vw_6NTg",
+            "display_value": 16
+          },
+          {
+            "row_id": "W3nU_pH8RjKa6YyXNwy_WQ",
+            "display_value": 85
+          },
+          {
+            "row_id": "Ojj0DqjzRqafZhcsnb0FHA",
+            "display_value": 86
+          },
+          {
+            "row_id": "aM9k4yRGS2qqvoy6EdTmRw",
+            "display_value": 89
+          },
+          {
+            "row_id": "CK4NMww6Spiy870roDxmmQ",
+            "display_value": 16
+          },
+          {
+            "row_id": "UrhccuFrSqadu2GwNU8tww",
+            "display_value": 85
+          }
+        ],
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2025-10-28T17:34:09.478+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2025-10-28T17:34:10.057+05:00",
+        "_id": "I8TVlOZXTmOj_oJ6Mh5iGA"
+      }
+    }
+  }
+}

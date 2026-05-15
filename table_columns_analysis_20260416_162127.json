@@ -1,0 +1,496 @@
+{
+  "tables": [
+    "Почтовый адрес объекта",
+    "Собственники жилья",
+    "Список граждан Вынгапур",
+    "Место работы"
+  ],
+  "columns": {
+    "Почтовый адрес объекта": [
+      "0000",
+      "pM3i",
+      "8cuE",
+      "a58R",
+      "XP4r",
+      "nC7g",
+      "VKZW",
+      "rmE3",
+      "CmFv",
+      "496B",
+      "7MCi",
+      "h6A8",
+      "zNzD",
+      "9LRE",
+      "7Fwi",
+      "96x2",
+      "ODQ4",
+      "TMoz",
+      "q4ro",
+      "Tmkx",
+      "kB7R",
+      "_locked",
+      "_locked_by",
+      "_archived",
+      "_creator",
+      "_ctime",
+      "_last_modifier",
+      "_mtime",
+      "_id"
+    ],
+    "Собственники жилья": [
+      "0000",
+      "Ce34",
+      "46Kt",
+      "23I0",
+      "f8PY",
+      "0TpF",
+      "ygNr",
+      "5TRA",
+      "c60U",
+      "B3A8",
+      "TorI",
+      "fVy5",
+      "1oh0",
+      "SJ29",
+      "KDZ6",
+      "wWtZ",
+      "9ymO",
+      "6Ncf",
+      "WtJB",
+      "8KzX",
+      "1Xh7",
+      "77U3",
+      "wKSC",
+      "mm6f",
+      "tOaJ",
+      "Bd75",
+      "Tnqa",
+      "d9R7",
+      "O35f",
+      "4XKc",
+      "Mu71",
+      "xySw",
+      "7UZT",
+      "KD5P",
+      "8bFU",
+      "6aSN",
+      "4HPV",
+      "9039",
+      "_locked",
+      "_locked_by",
+      "_archived",
+      "_creator",
+      "_ctime",
+      "_last_modifier",
+      "_mtime",
+      "_id"
+    ],
+    "Список граждан Вынгапур": [
+      "0000",
+      "A1FW",
+      "zaig",
+      "r97I",
+      "5Go0",
+      "LYjQ",
+      "oiDl",
+      "u5NB",
+      "8rTo",
+      "G7TB",
+      "euHR",
+      "5LD7",
+      "1x99",
+      "QLyq",
+      "4bu0",
+      "KCCq",
+      "J5s8",
+      "DNXa",
+      "3KHw",
+      "1sYx",
+      "VciU",
+      "W96t",
+      "cjbC",
+      "6mB5",
+      "l7u2",
+      "Q5Wu",
+      "0JZI",
+      "m5JW",
+      "NrjF",
+      "8a36",
+      "SF0j",
+      "Q6qb",
+      "_locked",
+      "_locked_by",
+      "_archived",
+      "_creator",
+      "_ctime",
+      "_last_modifier",
+      "_mtime",
+      "_id"
+    ],
+    "Место работы": [
+      "0000",
+      "KVh7",
+      "2Kn4",
+      "b0ox",
+      "_locked",
+      "_locked_by",
+      "_archived",
+      "_creator",
+      "_ctime",
+      "_last_modifier",
+      "_mtime",
+      "_id"
+    ]
+  },
+  "data": {
+    "Почтовый адрес объекта": [
+      {
+        "0000": "ул.Строителей",
+        "pM3i": "1987",
+        "8cuE": "1",
+        "a58R": 20,
+        "XP4r": 62,
+        "nC7g": "198709",
+        "VKZW": "975841",
+        "rmE3": "2",
+        "CmFv": "2",
+        "496B": "20",
+        "7MCi": null,
+        "h6A8": "20",
+        "zNzD": 1027.1,
+        "9LRE": 901.9,
+        "7Fwi": true,
+        "96x2": "2030",
+        "ODQ4": [
+          {
+            "row_id": "ZGGUhmncQDuTosHBeFtkHA",
+            "display_value": "owner-0396"
+          },
+          {
+            "row_id": "CA9HJdOETneH26yqJWyVdQ",
+            "display_value": "owner-0397"
+          },
+          {
+            "row_id": "QBn8bdZ9RRGjGiyXbOACQQ",
+            "display_value": "owner-0398"
+          },
+          {
+            "row_id": "A6Y-mM6MRGqb-FM0e1WmKw",
+            "display_value": "owner-0399"
+          },
+          {
+            "row_id": "VJJrDhBRTly_p3CKVfzIvw",
+            "display_value": "owner-0400"
+          },
+          {
+            "row_id": "Nl0Bz-j9RJ-MM1b2SVANSQ",
+            "display_value": "owner-0401"
+          },
+          {
+            "row_id": "e_GvT90SSvqD1ZgpdnnMwg",
+            "display_value": "owner-0402"
+          },
+          {
+            "row_id": "Skjl1IrURB2X1wPzIcTP8g",
+            "display_value": "owner-0403"
+          },
+          {
+            "row_id": "AMXXl-pgRhCxq7jvUZGLjA",
+            "display_value": "owner-0404"
+          },
+          {
+            "row_id": "T9LcxHWjSC-Jw7XCXjz3AQ",
+            "display_value": "owner-0405"
+          }
+        ],
+        "TMoz": [
+          {
+            "row_id": "NPrj3w6BRjWpldF8KRXilw",
+            "display_value": "vgp-02550"
+          },
+          {
+            "row_id": "Vyg15ZfeQVaKEdnqY-eL5g",
+            "display_value": "vgp-02551"
+          },
+          {
+            "row_id": "Nfjv0R_9QzWf5tAPoENoow",
+            "display_value": "vgp-02552"
+          },
+          {
+            "row_id": "LLso-wpJSQK9CjgQL62nDA",
+            "display_value": "vgp-02553"
+          },
+          {
+            "row_id": "fmChtXY3SPSppEE7DXNqNQ",
+            "display_value": "vgp-02554"
+          },
+          {
+            "row_id": "G2sWJQOKSw2u1j5r5W9F6g",
+            "display_value": "vgp-02555"
+          },
+          {
+            "row_id": "HbFSUkBETSCulBzvYdv8gw",
+            "display_value": "vgp-02556"
+          },
+          {
+            "row_id": "fqiQWg7aT5OAzERyIML_vw",
+            "display_value": "vgp-02557"
+          },
+          {
+            "row_id": "ICgWHzwSSt2MYupFuKXQAQ",
+            "display_value": "vgp-02558"
+          },
+          {
+            "row_id": "O5VIdq4pTQ-fwfkznm9w6g",
+            "display_value": "vgp-02559"
+          }
+        ],
+        "q4ro": "распоряжение №665-Р от 08.12.2025",
+        "Tmkx": "2030-08-15T00:00:00+05:00",
+        "kB7R": "2030-12-15T00:00:00+05:00",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-09T16:42:05.59+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-04-16T09:53:53.831+05:00",
+        "_id": "Unq9mXJKT8mZ5JEvs7sqGQ"
+      }
+    ],
+    "Собственники жилья": [
+      {
+        "0000": "owner-0001",
+        "Ce34": "Разяпов Рустам Мухтарович",
+        "46Kt": [],
+        "23I0": [
+          {
+            "row_id": "LWB6fLpmQ_-iw6JmA6gH8Q",
+            "display_value": "ул.Нефтяников"
+          }
+        ],
+        "f8PY": "1",
+        "0TpF": 1,
+        "ygNr": [
+          "1"
+        ],
+        "5TRA": "Св-во",
+        "c60U": 34.5,
+        "B3A8": 34.5,
+        "TorI": 1,
+        "fVy5": 34.5,
+        "1oh0": 0,
+        "SJ29": 0,
+        "KDZ6": 0.027930699481865284,
+        "wWtZ": 27.930699481865283,
+        "9ymO": 0.028,
+        "6Ncf": 28,
+        "WtJB": 0,
+        "8KzX": 0,
+        "1Xh7": 3,
+        "77U3": 0,
+        "wKSC": 1,
+        "mm6f": 34.5,
+        "tOaJ": 0,
+        "Bd75": 0,
+        "Tnqa": 0,
+        "d9R7": 0,
+        "O35f": 0,
+        "4XKc": 0,
+        "Mu71": 0,
+        "xySw": 0,
+        "7UZT": 0,
+        "KD5P": 0,
+        "8bFU": 0,
+        "6aSN": 0,
+        "4HPV": null,
+        "9039": null,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-02-11T12:56:08.792+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-30T11:59:09.763+05:00",
+        "_id": "FAuFTmmBR9Kn6C-fEGFaNA"
+      }
+    ],
+    "Список граждан Вынгапур": [
+      {
+        "0000": "vgp-00001",
+        "A1FW": "Теплякова Валентина Ивановна",
+        "zaig": "1958-02-12T00:00:00+05:00",
+        "r97I": "68 лет",
+        "5Go0": 68,
+        "LYjQ": "Пенсионный (66-75 лет)",
+        "oiDl": false,
+        "u5NB": [
+          {
+            "row_id": "OOqYiIkJTyu3NkJSmUgX-g",
+            "display_value": "ул.70 лет Октября"
+          }
+        ],
+        "8rTo": [
+          "10"
+        ],
+        "G7TB": "10",
+        "euHR": [
+          "198709"
+        ],
+        "5LD7": "Собственник",
+        "1x99": [
+          "989929"
+        ],
+        "QLyq": [
+          false
+        ],
+        "4bu0": null,
+        "KCCq": [],
+        "J5s8": [],
+        "DNXa": null,
+        "3KHw": null,
+        "1sYx": true,
+        "VciU": false,
+        "W96t": false,
+        "cjbC": false,
+        "6mB5": false,
+        "l7u2": false,
+        "Q5Wu": false,
+        "0JZI": false,
+        "m5JW": false,
+        "NrjF": false,
+        "8a36": null,
+        "SF0j": [
+          {
+            "row_id": "eD3-tDOHS8mfKsZ_xFGQ1w",
+            "display_value": "Теплякова Валентина Ивановна"
+          }
+        ],
+        "Q6qb": 1,
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-17T14:09:34.318+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-31T18:01:12.125+05:00",
+        "_id": "ed1kRrqXRoS6ir_b8LYplg"
+      }
+    ],
+    "Место работы": [
+      {
+        "0000": "МБУ \"РЦДИПВ \"Кадет\"",
+        "KVh7": [
+          {
+            "row_id": "Jdhp1XCIQw2icoZJONGOxQ",
+            "display_value": "Абдуллина Гузель Маратовна"
+          },
+          {
+            "row_id": "KtvRF_XETXaFzyFKDs8wmg",
+            "display_value": "Снарский Иван Степанович"
+          },
+          {
+            "row_id": "O_NO6dwWQuiKDDXXUlqnmg",
+            "display_value": "Федорова Лариса Ивановна"
+          },
+          {
+            "row_id": "JD6CLA9HTmiFYgcFwmsxSA",
+            "display_value": "Зубкова Татьяна Евгеньевна"
+          },
+          {
+            "row_id": "TY5U3yfvQqqzDFf6AKF_Gg",
+            "display_value": "Погорелова Ольга Владимировна"
+          },
+          {
+            "row_id": "LOqfkW5ZQjODltXYaSLqrg",
+            "display_value": "Миргалиева Винера Фаридовна"
+          },
+          {
+            "row_id": "c_Hk38UIQSykPdaPOn9_NA",
+            "display_value": "Моисеенко Анатолий Анатольевич"
+          },
+          {
+            "row_id": "Dau9oor-RFWU77zmEkaYMw",
+            "display_value": "Малашинина Светлана Алексеевна"
+          },
+          {
+            "row_id": "cX3Uggg4R2mZwHyir6qmFA",
+            "display_value": "Татаринцева Елена Владимировна"
+          },
+          {
+            "row_id": "MnayXuRSRdiTxkymeHMRlA",
+            "display_value": "Николаева Александра Павловна"
+          }
+        ],
+        "2Kn4": 10,
+        "b0ox": "672421",
+        "_locked": null,
+        "_locked_by": null,
+        "_archived": false,
+        "_creator": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_ctime": "2026-03-04T17:10:27.884+05:00",
+        "_last_modifier": "ac772136618c4aa1b26688a77b646dc2@auth.local",
+        "_mtime": "2026-03-27T17:14:43.946+05:00",
+        "_id": "aNjC8kojSnqidQxk4IT4pA"
+      }
+    ]
+  },
+  "analysis": {
+    "matching_column_names": {
+      "0000": [
+        "Почтовый адрес объекта",
+        "Собственники жилья",
+        "Список граждан Вынгапур",
+        "Место работы"
+      ],
+      "_locked": [
+        "Почтовый адрес объекта",
+        "Собственники жилья",
+        "Список граждан Вынгапур",
+        "Место работы"
+      ],
+      "_locked_by": [
+        "Почтовый адрес объекта",
+        "Собственники жилья",
+        "Список граждан Вынгапур",
+        "Место работы"
+      ],
+      "_archived": [
+        "Почтовый адрес объекта",
+        "Собственники жилья",
+        "Список граждан Вынгапур",
+        "Место работы"
+      ],
+      "_creator": [
+        "Почтовый адрес объекта",
+        "Собственники жилья",
+        "Список граждан Вынгапур",
+        "Место работы"
+      ],
+      "_ctime": [
+        "Почтовый адрес объекта",
+        "Собственники жилья",
+        "Список граждан Вынгапур",
+        "Место работы"
+      ],
+      "_last_modifier": [
+        "Почтовый адрес объекта",
+        "Собственники жилья",
+        "Список граждан Вынгапур",
+        "Место работы"
+      ],
+      "_mtime": [
+        "Почтовый адрес объекта",
+        "Собственники жилья",
+        "Список граждан Вынгапур",
+        "Место работы"
+      ],
+      "_id": [
+        "Почтовый адрес объекта",
+        "Собственники жилья",
+        "Список граждан Вынгапур",
+        "Место работы"
+      ]
+    }
+  }
+}
